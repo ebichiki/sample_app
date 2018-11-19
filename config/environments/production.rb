@@ -65,7 +65,7 @@ Rails.application.configure do
   # Ignore bad email addresses and do not raise email delivery errors.
   # Set this to true and configure the email server for immediate delivery to raise delivery errors.
  config.action_mailer.delivery_method = :smtp
-  host = 'ranquil-basin-98245.herokuapp.com'
+  host = 'tranquil-basin-98245.herokuapp.com'
   config.action_mailer.default_url_options = { host: host }
   ActionMailer::Base.smtp_settings = {
     :address        => 'smtp.sendgrid.net',
