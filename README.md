@@ -4,6 +4,10 @@
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 [Michael Hartl](http://www.michaelhartl.com/) 著
 
+Rails 5.1（第4版）
+
+デプロイ先：https://tranquil-basin-98245.herokuapp.com/
+
 ## ライセンス
 
 [Ruby on Rails チュートリアル](https://railstutorial.jp/)内にある
